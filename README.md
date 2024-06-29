@@ -56,7 +56,7 @@ The project uses the following libraries:
 To run the project in Google Colab, follow these steps:
 
 1. **Open the Colab Notebook**
-   - [Vehicle Routing Problem with Genetic Algorithms](https://colab.research.google.com/github/tanush-k/VRP-GA/new/master/vrp_ga.ipynb)
+   - [Vehicle Routing Problem with Genetic Algorithms](https://colab.research.google.com/github/tanush-k/VRP-GA/blob/master/vrp_ga.ipynb)
 
 2. **Run the Cells**
    - Execute each cell in the notebook sequentially. The notebook is structured to guide you through the initialization, setup, and execution of the genetic algorithm.
